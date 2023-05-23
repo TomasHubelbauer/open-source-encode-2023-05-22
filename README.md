@@ -84,4 +84,4 @@ faster, but also to contribute to the Playwright project as such due to the
 improvements made to the contributing guide.
 
 You can find the PR here:
-https://github.com/microsoft/playwright/pull/23146
+<https://github.com/microsoft/playwright/pull/23146>
